@@ -1,3 +1,9 @@
-# discord-bot-wake
+# Discord Bot WakeUP
 wake on wan using discord bot
-# slash command support!
+
+## Features
+
+- /pcon
+- /pcoff
+- /pcstatus
+
